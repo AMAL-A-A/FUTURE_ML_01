@@ -1,0 +1,8 @@
+# To install the following use
+# pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
